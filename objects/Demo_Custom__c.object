@@ -163,7 +163,6 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
         <active>true</active>
